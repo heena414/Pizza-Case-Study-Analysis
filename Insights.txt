@@ -1,0 +1,80 @@
+SOME INSIGHTS
+
+
+1. Total Number of Orders:
+   - 21,338 total orders.
+
+2. Highest Priced Pizza:
+   - Greek Pizza at $35.38.
+
+3. Most Common Pizza Size Ordered:
+   - Large Pizzas: Most orders.
+   - Medium Pizzas: Second most.
+   - Small Pizzas: Third most.
+   - XL and XXL Pizzas: Least ordered.
+   - Focus on Large and Medium Pizzas for inventory.
+
+4. Peak Order Times:
+   - Midday (12 PM - 1 PM): Highest orders.
+   - Evening snacks (5 PM - 7 PM): High orders.
+   - Prioritize stock and staffing during peak times.
+
+5. Category-Wise Distribution of Pizzas:
+   - Chicken: 6 pizzas.
+   - Classic: 6 pizzas.
+   - Supreme: 9 pizzas.
+   - Veg: 9 pizzas.
+   - Maintain high inventory of Classic Pizzas.
+
+6. Average Number of Pizzas Ordered Per Day:
+   - 138 pizzas/day.
+
+7. Top 3 Pizzas by Revenue:
+   - All from Chicken category.
+   - Ensure ingredients for these pizzas are stocked.
+
+8. Revenue Contribution by Pizza Category:
+   - Chicken: Highest.
+   - Supreme: Second highest.
+   - Classic: Third highest.
+
+9. Revenue Contribution from Each Pizza by Name:
+   - Greek Pizza: 5.31% of total sales.
+
+10.Top 5 Most Ordered Pizza Types:
+   - Classic Deluxe, Barbecue Chicken, Hawaiian, Pepperoni, Thai Chicken.
+   - Focus on classic and chicken pizzas.
+
+11. Monthly Revenue Trend:
+    - Highest in January, March, February.
+    - Consistent demand with peak in March.
+
+12. Revenue by Pizza Size:
+    - Large pizzas: $375,318.70.
+    - Medium: $249,382.25.
+    - Small: $178,076.50.
+    - Focus on Large and Medium pizzas.
+
+13. Average Order Value:
+    - $38.34.
+    - Use for sales targets and upselling.
+
+14. Most Popular Pizza Ingredient:
+    - Garlic, used 20 times.
+
+15. Top 3 Most Ordered Pizza Types by Revenue for Each Category:
+    - Chicken: Barbecue Chicken, California Chicken, Thai Chicken.
+    - Classic: Classic Deluxe, Hawaiian, Pepperoni.
+    - Supreme: Italian Supreme, Sicilian, Spicy Italian.
+    - Veggie: Five Cheese, Four Cheese, Mexicana.
+
+16. Revenue by Day of the Week:
+    - Highest on Monday, Sunday, and Tuesday.
+    - Plan promotions and staff schedules accordingly.
+
+
+
+Conclusion:
+
+
+By focusing on these insights, one can better manage inventory, staffing, and promotions to maximize sales and customer satisfaction. Prioritize large-sized pizzas and popular Chicken and Classic categories due to their high demand and revenue contribution. Ensure stores are well-stocked and adequately staffed during peak midday and evening hours. Plan promotions around high-revenue months like January, March, and February, and consider new garlic-flavored pizzas. Use daily and weekly trends to guide sales forecasting and resource allocation. Target popular and high-revenue pizzas in marketing efforts to optimize operations, enhance customer satisfaction, and drive sales growth.

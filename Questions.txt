@@ -1,0 +1,26 @@
+QUESTIONS:
+
+1. Total Number of Orders Placed
+2. Total Revenue Generated from Pizza Sales
+3. Highest-Priced Pizza
+4. Most Common Pizza Size Ordered
+5. Top 5 Most Ordered Pizza Types
+6. Total Number of Each Pizza Type Sold
+7. Total Orders Per Day of the Week
+8. Average Order Value
+9. Total Revenue by Pizza Size
+10. Total Quantity of Each Pizza Category Ordered
+11. Distribution of Orders by Hour of the Day
+12. Category-Wise Distribution of Pizzas
+13. Average Number of Pizzas Ordered Per Day
+14. Top 3 Most Ordered Pizza Types Based on Revenue
+15. Peak order days
+16. Average Number of Pizzas per Order
+17. Revenue by Day of the Week
+18. Most Popular Pizza Ingredient
+19. Average Revenue per Pizza Type
+20. Percentage Contribution of Each Pizza Type to Total Revenue
+21. Revenue Contribution from each pizza-by-pizza name
+22. Cumulative Revenue Generated Over Time
+23. Top 3 Most Ordered Pizza Types Based on Revenue for Each Pizza Category
+24. Monthly Revenue Trend
