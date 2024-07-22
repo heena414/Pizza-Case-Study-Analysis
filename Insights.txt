@@ -1,6 +1,5 @@
 SOME INSIGHTS
 
-
 1. Total Number of Orders:
    - 21,338 total orders.
 
@@ -74,7 +73,6 @@ SOME INSIGHTS
 
 
 
-Conclusion:
-
+Conclusion
 
 By focusing on these insights, one can better manage inventory, staffing, and promotions to maximize sales and customer satisfaction. Prioritize large-sized pizzas and popular Chicken and Classic categories due to their high demand and revenue contribution. Ensure stores are well-stocked and adequately staffed during peak midday and evening hours. Plan promotions around high-revenue months like January, March, and February, and consider new garlic-flavored pizzas. Use daily and weekly trends to guide sales forecasting and resource allocation. Target popular and high-revenue pizzas in marketing efforts to optimize operations, enhance customer satisfaction, and drive sales growth.
